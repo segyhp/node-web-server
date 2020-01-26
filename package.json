@@ -2,7 +2,8 @@
   "name": "node-web-server",
   "version": "1.0.0",
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
+    "hbs": "^4.1.0"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.0.2"
